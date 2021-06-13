@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 
 /**
  *
- * @author kylerudy
+ * @author 
  */
 @Component
 public class MeetingController {
